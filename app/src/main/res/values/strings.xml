@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">weather</string>
+
+    <!-- Custom dialog -->
+    <string name="dialog_date">Date : </string>
+    <string name="dialog_City">City : </string>
+    <string name="dialog_weather">Weather : </string>
+    <string name="dialog_humidity">Humidity : </string>
+    <string name="dialog_cloudnes">Cloudnes : </string>
+    <string name="dialog_win_speed">Win speed : </string>
+    <string name="dialog_temperature">Temperature : </string>
+    <string name="dialog_pressure">Atmospheric pressure : </string>
+
+</resources>

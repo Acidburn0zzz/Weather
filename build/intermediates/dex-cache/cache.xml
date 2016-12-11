@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_5c480cdc43e25dd6d8b303f8a4fdcb19b43a5f91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b8095e7c9b14a335a96dbaae30135c9b865edbca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_9b05877c8eee0496341f96f45858f765aff90dd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27a503b586034a48d7368eb6281bb2626bfabdd1">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_afc091d46acd7676d1da7f0c2f356f95eca5c6d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7fe6d5d7f60c6cb731791a4056cea7341db2e3d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_501c6ce1da54b2ea2f0440d8cd111c1ec7939aab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_dcf4bac9402ce02d79b67831662c97a35d98ead1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.async-androidasync-2.1.9_77e19981d33a18296e35c297ec6eef5534711d9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f746a3822080df113892d9bf5e18d4ba108c1e1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_833f002c4bfb29ba1841a98ce4b9f1ca971d3d25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="294c9342724e6237b5bdff6912f788933e5e1bf3">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1dcff95220ac2c04da27f8e7ccf57b1018c7b6e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_fcd87b023d9b380e490c6367fb86e90c31ff38b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.ion-ion-2.1.9_2d638799e93944297d54965612d04ba658a8a5ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2ef84c7c806f39ef9c2587ae68633148b0c43c16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_03bfb784273efd6206d80c19f4ed5bea9a25bca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_bf178f57135b1fa18df273abb6041003655887e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_443bc1084089c9fcf07da0346e46f14d9ae8d6ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_cd1837c20aeb0cde136cf16f574eb8431d3374bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.1/8453703164e230cce848b387f6b8c06f10a22d59/picasso-2.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8453703164e230cce848b387f6b8c06f10a22d59">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.1_ec7d0cb5c91adb24881675a13e1f2e459d343866/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_f60cd89e2c417e6603a685d101504940c2975531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/edouard/weather/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/edouard/weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_451dccb908cd8364e05172a6cd99d5bed3186d0d/classes.dex" />
+    </item>
+
+</items>
